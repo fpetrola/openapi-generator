@@ -1,2 +1,2 @@
-disableTools = [ "errorprone", "bandit", "cobra", "codenarc", "detekt", "eslint", "findsecbugs", "golangci-lint", "gosec", "hlint", "infer", "jshint", "luacheck", "psalm", "pyre", "refactor-first", "rubocop", "securityscan", "semgrep", "shellcheck", "staticcheck"]
+disableTools = [ "errorprone", "bandit", "cobra", "codenarc", "detekt", "eslint", "findsecbugs", "golangci-lint", "gosec", "hlint", "infer", "jshint", "luacheck", "psalm", "pyre", "refactor-first", "rubocop", "securityscan", "semgrep", "shellcheck", "staticcheck", "hadolint"]
 
